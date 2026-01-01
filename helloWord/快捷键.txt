@@ -1,0 +1,5 @@
+Ctrl+Shift+F10: 运行.py文件
+Ctrl+Alt+l: PEP-8代码规范格式化
+Ctrl+Y: 删除整行
+
+这是一个跳行
